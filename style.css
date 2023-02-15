@@ -1,0 +1,39 @@
+body{
+    background-image: url("https://media1.tenor.com/images/61167c5a2c76ff7346c3ea54f44a05fe/tenor.gif?itemid=16541971");
+}
+.screen{
+    border:solid black;
+    height:52vh;
+    margin:2em;
+    width:60%;
+}
+.screenPic{
+    width:100%;
+    height:100%;
+}
+.sImg{
+    width:100%;
+    height:100%;
+}
+.mainContainer{
+    display:flex;
+    justify-content: space-around;
+}
+.tempContainer{
+    padding:1em;
+    width:40%;
+    font-size:52px;
+    padding:1em;
+​
+}
+.paraContainer{
+     padding:1em;
+    margin:1em;
+    height:32vh;
+}
+.weather{
+    margin-left: 1em;
+}
+.txt{
+    color: orangered;
+}
